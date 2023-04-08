@@ -10,8 +10,6 @@ This is an introduction to Elementary Differential Geometry using the CAS Eigenm
 
 ### Some Tapas of Tensors
 
-### Remarks on the APOS Theory (M didactic): CASinEDU
-
 ### Gram-Schmidt Orthogonalization and Applications
 
 ### Linear Algebra interactive! suite with Eigenmath:
@@ -28,3 +26,4 @@ This is an introduction to Elementary Differential Geometry using the CAS Eigenm
 
 - LAi6: Complex C, Hyperbolic H and Geometric Algebra Numbers G
 
+### Remarks on the APOS Theory (M didactic): CASinEDU
